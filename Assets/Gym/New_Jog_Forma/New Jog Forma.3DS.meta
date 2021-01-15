@@ -169,7 +169,77 @@ ModelImporter:
     4300054: Spazio F14
     4300056: Spazio F15
     4300058: Run_jog39
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alluminio Sat
+    second: {fileID: 2100000, guid: 66c521378be0f45e984aa3e9054054e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bianco2
+    second: {fileID: 2100000, guid: 839bd8ac75ebd47b490b5d85a6b347f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Met11
+    second: {fileID: 2100000, guid: bc647a7b1210e46efa7b8ca0ef1e0250, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metallo RAL 7024
+    second: {fileID: 2100000, guid: bde693e5018e24c76b4d466199f35c9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PBlack
+    second: {fileID: 2100000, guid: 37c450d1bc34e4d7e99dea9fa2bd095a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PGrey Cl
+    second: {fileID: 2100000, guid: 0daf5a56bf3354db2828fb1a73e5de7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PGrey Md
+    second: {fileID: 2100000, guid: 6d844af677dc84d7394a798b0ae830b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RAL 7024
+    second: {fileID: 2100000, guid: 19aa4cc18e32d4853a3aec2f1ab606ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RAL 70242
+    second: {fileID: 2100000, guid: ed205293efb6642c88d52ba065120f65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: b59a4fdc3c76c45e688b63edcd38bbc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schermo Jog
+    second: {fileID: 2100000, guid: af043061f7d0d4a9799f5f6760f4f777, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TGmet 2
+    second: {fileID: 2100000, guid: cb87a475cf02d4540896886287fe4a52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tappeto
+    second: {fileID: 2100000, guid: ffa31758b464b47889d6ea4462bfd7d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trasp
+    second: {fileID: 2100000, guid: e3b31e24896e84cc1b60c58cbb929702, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
